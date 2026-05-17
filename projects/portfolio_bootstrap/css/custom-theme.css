@@ -37,3 +37,24 @@ body{
 .custom-section{
 padding:var(--custom-space-lg);
 }
+
+body{
+background-color:#f0fdfa;
+}
+
+.card{
+border-radius:20px;
+}
+
+.btn{
+border-radius:30px;
+}
+
+.card{
+border:none;
+box-shadow:0 4px 10px rgba(0,0,0,0.1);
+}
+
+h1,h2,h3,h4{
+color:#0f766e;
+}
