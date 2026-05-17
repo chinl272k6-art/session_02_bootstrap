@@ -25,3 +25,15 @@ body{
 :root{
 --bs-primary:#14b8a6;
 }
+
+:root{
+
+--custom-space-sm:10px;
+--custom-space-md:25px;
+--custom-space-lg:50px;
+
+}
+
+.custom-section{
+padding:var(--custom-space-lg);
+}
